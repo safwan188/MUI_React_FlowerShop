@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone [https://github.com/yourusername/florique.git](https://github.com/safwan188/MUI_React_FlowerShop)
+   git clone https://github.com/safwan188/MUI_React_FlowerShop
    ```
 
 2. **Navigate to the project directory:**
