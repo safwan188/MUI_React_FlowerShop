@@ -11,6 +11,7 @@ Florique is an e-commerce web application for managing flower shops. This projec
 
 - [Screenshots](#screenshots)
 
+## make sure to setup your firebase service file in services folder in src 
 
 ## Installation
 
@@ -81,17 +82,22 @@ Customers can update their profile information and manage their payment methods.
 ![Welcome Page](./screenshots/welcome.png)
 *Welcome to Florique*
 
-![Build Bouquet](./screenshots/build_bouqet.png)
-*Custom Order Creation Page*
 
-![Customer Profile](./screenshots/customer profile.png)
-*Customer Profile Page*
+![Sign In](./screenshots/signin.png)
+*Sign In Page*
 
 ![Sign Up](./screenshots/register.png)
 *Sign Up Page*
 
 ![Shop Listings](./screenshots/shops.png)
 *Shop Listings Page*
+### creating customer bouqet using  react drag and drop
+![Build Bouquet](./screenshots/build_bouqet.png)
+*Custom Order Creation Page*
+
+![Customer Profile](./screenshots/customer profile.png)
+*Customer Profile Page*
+
 
 ![Shop Inventory](./screenshots/shop_inventory.png)
 *Shop Inventory Page*
@@ -99,8 +105,6 @@ Customers can update their profile information and manage their payment methods.
 ![Shop Owner Profile](./screenshots/shop_owner_profile.png)
 *Shop Owner Profile Page*
 
-![Sign In](./screenshots/signin.png)
-*Sign In Page*
 
 
 
